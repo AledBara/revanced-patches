@@ -4,7 +4,7 @@ patches {
     about {
         name = "ReVanced Patches"
         description = "Patches for ReVanced"
-        source = "git@github.com:revanced/revanced-patches.git"
+        source = "git@github.com:AledBara/revanced-patches.git"
         author = "ReVanced"
         contact = "contact@revanced.app"
         website = "https://revanced.app"
@@ -44,18 +44,5 @@ tasks {
 kotlin {
     compilerOptions {
         freeCompilerArgs = listOf("-Xcontext-receivers")
-    }
-}
-
-publishing {
-    repositories {
-        maven {
-            name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/AledBara/revanced-patches")
-            credentials {
-                username = System.getenv("GITHUB_ACTOR")
-                password = System.getenv("GITHUB_TOKEN")
-            }
-        }
     }
 }
