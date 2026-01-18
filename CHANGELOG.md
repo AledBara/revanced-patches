@@ -1,3 +1,12 @@
+## [5.47.2](https://github.com/AledBara/revanced-patches/compare/v5.47.1...v5.47.2) (2026-01-18)
+
+
+### Bug Fixes
+
+* **Maven:** altra prova ([6ebb391](https://github.com/AledBara/revanced-patches/commit/6ebb391fe07a52eaa3f90635d48534ed5638f30e))
+* **Maven:** proviamo ([c4d2c97](https://github.com/AledBara/revanced-patches/commit/c4d2c97ec328f15668de7374bca51268bb66c282))
+* **Maven:** rimosso ([d8c8fc1](https://github.com/AledBara/revanced-patches/commit/d8c8fc145975d75a4077c8bf60c6e9b4194f04dc))
+
 ## [5.47.1](https://github.com/AledBara/revanced-patches/compare/v5.47.0...v5.47.1) (2026-01-18)
 
 
