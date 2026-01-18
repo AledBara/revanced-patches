@@ -1,3 +1,10 @@
+## [5.47.1](https://github.com/AledBara/revanced-patches/compare/v5.47.0...v5.47.1) (2026-01-18)
+
+
+### Bug Fixes
+
+* **TiKTok:** riprovo ([1f4ab98](https://github.com/AledBara/revanced-patches/commit/1f4ab98ea52c926afaae05406171d5d5def213b0))
+
 # [5.47.0](https://github.com/ReVanced/revanced-patches/compare/v5.46.0...v5.47.0) (2025-12-18)
 
 
